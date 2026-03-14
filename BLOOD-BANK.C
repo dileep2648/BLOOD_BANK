@@ -132,6 +132,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                 }
             }
@@ -145,6 +146,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                 }
             }
@@ -158,6 +160,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                 }
             }
@@ -171,6 +174,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                 }
             }
@@ -184,6 +188,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                 }
             }
@@ -197,6 +202,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                 }
             }
@@ -210,6 +216,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                  }
                 }
@@ -223,6 +230,7 @@ void request(don *d) {
                     printf("Name: %s\n",d[j].name);
                     printf("Blood Group: %s\n",d[j].group);
                     printf("Units: %d\n",d[j].units);
+                    d[j].units=d[j].units-u;
                     return;
                  }
                 }
